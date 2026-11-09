@@ -1,9 +1,9 @@
 # 🔀🔒 Polymorphic Shellcode Engine
 
+> **Maintenance status:** Historical research code from 2025. The examples have not been revalidated against current platforms or dependencies. Current vulnerability research is published in [AI Infrastructure Security](https://github.com/Aviral2642/ai-infra-security); see the [public profile](https://github.com/Aviral2642) for recent work.
+
 
 A next-generation engine for generating metamorphic shellcode payloads with built-in evasion capabilities, designed for red team operations and penetration testing.
-
-![Payload Generation Demo](docs/demo.gif)
 
 ## 🚀 Features
 
@@ -31,5 +31,5 @@ A next-generation engine for generating metamorphic shellcode payloads with buil
 
 ```bash
 git clone https://github.com/Aviral2642/Polymorphic-Shellcode-Engine.git
-cd polymorphic-shellcode-engine
+cd Polymorphic-Shellcode-Engine
 pip install -r requirements.txt
